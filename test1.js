@@ -1,3 +1,5 @@
 window.onload = function() {
-    document.querySelector('.box').addEventListener('click', )
+    document.querySelector('dv').addEventListener('click',function(){
+        
+    })
 }
